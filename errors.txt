@@ -2,8 +2,6 @@
 
 - [remobile/react-native-splashscreen]()
 
-- [remobile/react-native-cache-image]()
-
 - [lesliesam/react-native-wheel-picker]()
 
 - [omulet/react-native-radial-menu]()
