@@ -16,8 +16,6 @@
 
 - [zehfernandes/react-native-3dcube-navigation]()
 
-- [guodong000/react-native-custom-actsheet]()
-
 - [caroaguilar/react-native-bar-collapsible]()
 
 - [christopherabouabdo/react-native-photo-grid]()
